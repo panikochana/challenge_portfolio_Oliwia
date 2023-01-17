@@ -1,6 +1,8 @@
 # Task 1
 ## Subtask 1
 8/10 ✨
+## Subtask 2
+Done ✅
 ## Subtask 3
 Aktualnie szukam zmiany zawodowej i jeden z kierunków, które rozważam to IT, ale nie jestem jeszcze pewna jaka rola jest dla mnie. Byłam kiedyś na warsztatach testowania organizowanych przez "Girls who test" i kiedy zobaczyłam ten challenge przymniało mi się, że było tam super to mogę zacząć eksploracje tu. Moim celem jest sprawdzenie jak mi się podoba testowanie i jak sobie z tym radzę. Mam nadzieję nauczyć się podstaw i lepiej rozumieć język IT.
 
@@ -25,4 +27,4 @@ Błędy, które zauważyłam:
 - Rozpocznij mecz: mogłam mieć 14 połów meczu, jak zrobiłam z tego raport to się nie zapisał 
 - Dodaj raport: po kliknięciu przerzuca do meczy
 ## Subtask 5
-Done ✅ 
+Done ✅
