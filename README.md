@@ -8,12 +8,19 @@ Aktualnie szukam zmiany zawodowej i jeden z kierunków, które rozważam to IT, 
 
 ## Subtask 4
 #### Na czym polega ta aplikacja? Do czego służy?
-
+Aplikacja służy do budowania bazy danych dotyczących graczy.
 #### Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
-
+Główna funkcja to dodawanie profilów graczy. W wramach posiadanego profilu można dodawać mecze i raporty dotyczące danego gracza.
+Zmieniłabym nawigację na bardziej w formie drzewka, żeby lepiej rozumieć do czego należy. Na początku nie zrozumiałam, że mecz który dodaję dotyczy zawodnika, którego dodałam.
+Dodałabym filtry do wyboru z listy w zakładce Gracze z tabelką.
+Brakuje mi też kwestii płci, wiem, że w Polsce kobieca piłka nożna nie istnieje, ale jeśli jest angielskie menu i produkt ma być międzynarodowy to powinien to uwględniać, biorąc pod uwagę inne rynki a przede wszystkim poprostu kobiety w tym sporcie.
 #### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
-
+Podobają mi się ikonki w menu
 #### Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
+Średnio
 
 #### Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
-
+Drukowanie
+Dodaj gracza: Poziom rozgrywek, pozycja, języki, drużyna
+Rozpocznij mecz: mogłam mieć 14 połów meczu, jak zrobiłam z tego raport to się nie zapisał
+Dodaj raport: po kliknięciu przerzuca do meczy
