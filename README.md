@@ -30,7 +30,6 @@ Błędy, które zauważyłam, w Devtoolsach żadnych nie podało.
 Done ✅
 
 # Task 2
-# Task 1
 ## Subtask 1
 https://docs.google.com/spreadsheets/d/12zdScXSyKA94fA72IQcAiTsxS7JcGxgq-VTDpHRLWXM/edit?usp=share_link
 ## Subtask 2
