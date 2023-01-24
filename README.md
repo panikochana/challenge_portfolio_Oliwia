@@ -28,3 +28,13 @@ Błędy, które zauważyłam, w Devtoolsach żadnych nie podało.
 - Dodaj raport: po kliknięciu przerzuca do meczy
 ## Subtask 5
 Done ✅
+
+# Task 2
+# Task 1
+## Subtask 1
+https://docs.google.com/spreadsheets/d/12zdScXSyKA94fA72IQcAiTsxS7JcGxgq-VTDpHRLWXM/edit?usp=share_link
+## Subtask 2
+https://docs.google.com/spreadsheets/d/1A4RNDZWsbi66kp2pKPBrJdSLAlXuJ5O-ESmIJjw1zcs/edit?usp=share_link
+## Subtask 3
+Po co piszemy test case’y?
+Po to żeby lepiej planować pracę i w ten sposób polepszać jakość oprogramowania 💪. Myślę, że super ważna jest też tworzona w ten sposób dokumentacja 📂, która poprawia wymianę wiedzy i informacji wewnątrz zespołu projektowego ale także w kontacie ze stakeholderami. Myślę, że szczególnie developerzy 👩‍💻 mogą na tym skorzystać w przypadku pojawienia się błędów 🪲.
