@@ -37,3 +37,17 @@ https://docs.google.com/spreadsheets/d/1A4RNDZWsbi66kp2pKPBrJdSLAlXuJ5O-ESmIJjw1
 ## Subtask 3
 **Po co piszemy test case’y?** 
 Po to żeby lepiej planować pracę i w ten sposób polepszać jakość oprogramowania 💪. Myślę, że super ważna jest też tworzona w ten sposób dokumentacja 📂, która poprawia wymianę wiedzy i informacji wewnątrz zespołu projektowego ale także w kontacie ze stakeholderami. Myślę, że szczególnie developerzy 👩‍💻 mogą na tym skorzystać w przypadku pojawienia się błędów 🪲.
+
+# Task 3
+## Subtask 1
+
+## Subtask 2
+
+## Subtask 3
+
+# Task 4
+## Subtask 1
+
+## Subtask 2
+
+## Subtask 3
